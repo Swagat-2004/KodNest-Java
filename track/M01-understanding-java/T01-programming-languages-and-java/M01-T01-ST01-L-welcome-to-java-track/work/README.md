@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Swagat Kumar Behera
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+i learned about data types, operators, control flow, functions, arrays, and other basic programming concepts.
 
 ## Why I Selected Java
 
-Write your reason in your own words.
+Because i love it.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become a IAS officer.
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences: to become successful, i need to work hard and stay consistent
 
-Programming means:
+Programming means:its a logical way to solve problems
 
-Java is:
+Java is: Language its just a medium.
 
-In this track, I will learn:
+In this track, I will learn: how to code.
